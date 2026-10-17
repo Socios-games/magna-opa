@@ -1,0 +1,722 @@
+[
+ {
+  "ano": 2009,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2009_regular_d1__dia1_caderno1_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2009/dia1_caderno1_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2009__gabarito_dia1.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2009/gabarito_dia1.pdf"
+ },
+ {
+  "ano": 2009,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2009_regular_d2__dia2_caderno7_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2009/dia2_caderno7_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2009__gabarito_dia2.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2009/gabarito_dia2.pdf"
+ },
+ {
+  "ano": 2010,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2010_ppl_d1__2010_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/2010_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": null,
+  "gab_url": null
+ },
+ {
+  "ano": 2010,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2010_ppl_d2__2010_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/2010_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": null,
+  "gab_url": null
+ },
+ {
+  "ano": 2010,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2010_regular_d1__dia1_caderno1_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/dia1_caderno1_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2010__dia1_caderno1_azul_com_gab.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/dia1_caderno1_azul_com_gab.pdf"
+ },
+ {
+  "ano": 2010,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2010_regular_d2__dia2_caderno7_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/dia2_caderno7_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2010__dia2_caderno7_azul_com_gab.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2010/dia2_caderno7_azul_com_gab.pdf"
+ },
+ {
+  "ano": 2011,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2011_ppl_d1__PPL_ENEM_2011_03_BRANCO.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2011/PPL_ENEM_2011_03_BRANCO.pdf",
+  "gab": null,
+  "gab_url": null
+ },
+ {
+  "ano": 2011,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2011_ppl_d2__PPL_ENEM_2011_06_CINZA.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2011/PPL_ENEM_2011_06_CINZA.pdf",
+  "gab": null,
+  "gab_url": null
+ },
+ {
+  "ano": 2011,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2011_regular_d1__dia1_caderno1_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2011/dia1_caderno1_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2011__01_AZUL_GABARITO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2011/01_AZUL_GABARITO.pdf"
+ },
+ {
+  "ano": 2011,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2011_regular_d2__dia2_caderno7_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2011/dia2_caderno7_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2011__07_AZUL_GABARITO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2011/07_AZUL_GABARITO.pdf"
+ },
+ {
+  "ano": 2012,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2012_ppl_d1__2012_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2012/2012_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2012__p2_dia1_branco_2012.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2012/p2_dia1_branco_2012.pdf"
+ },
+ {
+  "ano": 2012,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2012_ppl_d2__2012_PV_reaplicacao_PPL_D2_CD6.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2012/2012_PV_reaplicacao_PPL_D2_CD6.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2012__p2_dia2_cinza_2012.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2012/p2_dia2_cinza_2012.pdf"
+ },
+ {
+  "ano": 2012,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2012_regular_d1__dia1_caderno1_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2012/dia1_caderno1_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2012__dia1_azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2012/dia1_azul.pdf"
+ },
+ {
+  "ano": 2012,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2012_regular_d2__dia2_caderno7_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2012/dia2_caderno7_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2012__dia2_azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2012/dia2_azul.pdf"
+ },
+ {
+  "ano": 2013,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2013_ppl_d1__2013_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2013/2013_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2013__gabarito_enem_ppl_2013_dia1_branca.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2013/gabarito_enem_ppl_2013_dia1_branca.pdf"
+ },
+ {
+  "ano": 2013,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2013_regular_d1__dia1_caderno1_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2013/dia1_caderno1_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2013__dia1_azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2013/dia1_azul.pdf"
+ },
+ {
+  "ano": 2013,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2013_regular_d2__dia2_caderno7_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2013/dia2_caderno7_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2013__dia2_azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2013/dia2_azul.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_ppl_d1__2014_PPL_PV_D1_CD3.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PPL_PV_D1_CD3.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__2014_PPL_GB_D1_CD3.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PPL_GB_D1_CD3.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_ppl_d2__2014_PPL_PV_D2_CD6.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PPL_PV_D2_CD6.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__2014_PPL_GB_D2_CD6.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PPL_GB_D2_CD6.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_regular_d1__2014_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__CADERNO_1_AZUL_SABADO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2014/CADERNO_1_AZUL_SABADO.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_regular_d2__2014_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__CADERNO_5_AMARELO_DOMINGO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2014/CADERNO_5_AMARELO_DOMINGO.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "terceira",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_terceira_d1__2014_PV_terceira_aplicacao_D1_CD3.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PV_terceira_aplicacao_D1_CD3.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__2014_GB_terceira_aplicacao_D1_CD3.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_GB_terceira_aplicacao_D1_CD3.pdf"
+ },
+ {
+  "ano": 2014,
+  "grupo": "terceira",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2014_terceira_d2__2014_PV_terceira_aplicacao_D2_CD6.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_PV_terceira_aplicacao_D2_CD6.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2014__2014_GB_terceira_aplicacao_D2_CD6.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/provas/2014/2014_GB_terceira_aplicacao_D2_CD6.pdf"
+ },
+ {
+  "ano": 2015,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2015_ppl_d1__2015_PV_reaplicacao_PPL_D1_CD9.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2015/2015_PV_reaplicacao_PPL_D1_CD9.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2015__GAB_ENEM2015_2aAPLICACAO_DIA1_CADERNO_9.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2015/GAB_ENEM2015_2aAPLICACAO_DIA1_CADERNO_9.pdf"
+ },
+ {
+  "ano": 2015,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2015_ppl_d2__2015_PV_reaplicacao_PPL_D2_CD13.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2015/2015_PV_reaplicacao_PPL_D2_CD13.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2015__GAB_ENEM2015_2aAPLICACAO_DIA2_CADERNO_13.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2015/GAB_ENEM2015_2aAPLICACAO_DIA1_CADERNO_12.pdf"
+ },
+ {
+  "ano": 2015,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2015_regular_d1__2015_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2015/2015_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2015__CADERNO_1_AZUL_SABADO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2015/CADERNO_1_AZUL_SABADO.pdf"
+ },
+ {
+  "ano": 2015,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2015_regular_d2__2015_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2015/2015_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2015__CADERNO_5_AMARELO_DOMINGO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2015/CADERNO_5_AMARELO_DOMINGO.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "p2",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_p2_d1__P2_01_AZUL_CH_CN_2016_REG.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/P2_01_AZUL_CH_CN_2016_REG.pdf",
+  "gab": null,
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2016/GAB_ENEM_2016_DIA_2_08_ROSA.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "p2",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_p2_d2__P2_07_AZUL_LC_MT_2016_REG.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/P2_07_AZUL_LC_MT_2016_REG.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2016__GAB_ENEM_2016_DIA_2_07_AZUL_2.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2016/GAB_ENEM_2016_DIA_2_07_AZUL_2.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_ppl_d1__2016_PV_reaplicacao_PPL_D1_CD9.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/2016_PV_reaplicacao_PPL_D1_CD9.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2016__gabarito_caderno_branco_9_2016.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2016/gabarito_caderno_branco_9_2016.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_ppl_d2__2016_PV_reaplicacao_PPL_D2_CD13.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/2016_PV_reaplicacao_PPL_D2_CD13.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2016__gabarito_caderno_cinza_13_2016.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2016/gabarito_caderno_cinza_13_2016.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_regular_d1__2016_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/2016_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2016__GAB_ENEM_2016_DIA_1_01_AZUL.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2016/GAB_ENEM_2016_DIA_1_01_AZUL.pdf"
+ },
+ {
+  "ano": 2016,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2016_regular_d2__2016_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2016/2016_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2016__GAB_ENEM_2016_DIA_2_05_AMARELO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2016/GAB_ENEM_2016_DIA_2_05_AMARELO.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "p2",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_p2_d1__P2_01_azul.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/P2_01_azul.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__gab_enem2017_2_dia1_Azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2017/gab_enem2017_2_dia1_Azul.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "p2",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_p2_d2__P2_05_AMARELO.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2017/provas/P2_05_AMARELO.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__GAB_ENEM_2017_2_APL_DIA_2_Amarelo_cad_5.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2017/gabaritos/GAB_ENEM_2017_2_APL_DIA_2_Amarelo_cad_5.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_ppl_d1__2017_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_reaplicacao_PPL_D1_CD3.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__GAB_ENEM_2017_2_APL_DIA_1_Branco_cad_3.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2017/gabaritos/GAB_ENEM_2017_2_APL_DIA_1_Branco_cad_3.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_ppl_d2__2017_PV_reaplicacao_PPL_D2_CD7.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_reaplicacao_PPL_D2_CD7.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__GAB_ENEM_2017_2_APL_DIA_2_Azul_cad-7.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2017/gabaritos/GAB_ENEM_2017_2_APL_DIA_2_Azul_cad-7.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_regular_d1__2017_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__cad_1_gabarito_azul_5112017.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2017/cad_1_gabarito_azul_5112017.pdf"
+ },
+ {
+  "ano": 2017,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2017_regular_d2__2017_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2017/2017_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2017__cad_5_gabarito_amarelo_12112017.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2017/cad_5_gabarito_amarelo_12112017.pdf"
+ },
+ {
+  "ano": 2018,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2018_ppl_d1__2018_PV_reaplicacao_PPL_D1_CD13.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_reaplicacao_PPL_D1_CD13.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2018__GAB_ENEM_2018_DIA_1_P2_Azul.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_1_P2_Azul.pdf"
+ },
+ {
+  "ano": 2018,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2018_ppl_d2__2018_PV_reaplicacao_PPL_D2_CD17.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_reaplicacao_PPL_D2_CD17.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2018__GAB_ENEM_2018_DIA_2_P2_Amarelo.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_2_P2_Amarelo.pdf"
+ },
+ {
+  "ano": 2018,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2018_regular_d1__2018_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2018_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2018__GAB_ENEM_2018_DIA_1_AZUL.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_1_AZUL.pdf"
+ },
+ {
+  "ano": 2018,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2018_regular_d2__2DIA_05_AMARELO_BAIXA.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2018/2DIA_05_AMARELO_BAIXA.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2018__GAB_ENEM_2018_DIA_2_AMARELO.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2018/GAB_ENEM_2018_DIA_2_AMARELO.pdf"
+ },
+ {
+  "ano": 2019,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2019_ppl_d1__2019_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2019__gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_1_dia_caderno_1_azul_2_aplicacao.pdf"
+ },
+ {
+  "ano": 2019,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2019_ppl_d2__2019_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2019__gabarito_2_dia_caderno_5_amarelo_2_aplicacao.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2019/gabaritos/gabarito_2_dia_caderno_5_amarelo_2_aplicacao.pdf"
+ },
+ {
+  "ano": 2019,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2019_regular_d1__2019_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2019__gabarito_1_dia_caderno_1_azul_aplicacao_regular.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_1_dia_caderno_1_azul_aplicacao_regular.pdf"
+ },
+ {
+  "ano": 2019,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2019_regular_d2__2019_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2019/2019_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2019__gabarito_2_dia_caderno_5_amarelo_aplicacao_regular.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/gabaritos/2019/gabarito_2_dia_caderno_5_amarelo_aplicacao_regular.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "digital",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_digital_d1__2020_PV_digital_D1_CD1_ingles.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_digital_D1_CD1_ingles.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_digital_D1_CD1_ingles.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_digital_D1_CD1_ingles.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "digital",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_digital_d2__2020_PV_digital_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_digital_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_digital_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_digital_D2_CD5.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_ppl_d1__2020_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_reaplicacao_PPL_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_reaplicacao_PPL_D1_CD1.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_ppl_d2__2020_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_reaplicacao_PPL_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_reaplicacao_PPL_D2_CD5.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_regular_d1__2020_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2020,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2020_regular_d2__2020_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2020__2020_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2020_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "digital",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_digital_d1__2021_PV_digital_D1_CD1_ingles.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_digital_D1_CD1_ingles.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_digital_D1_CD1_ingles.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_digital_D1_CD1_ingles.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "digital",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_digital_d2__2021_PV_digital_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_digital_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_digital_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_digital_D2_CD5.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_ppl_d1__2021_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_reaplicacao_PPL_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_reaplicacao_PPL_D1_CD1.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_ppl_d2__2021_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_reaplicacao_PPL_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_reaplicacao_PPL_D2_CD5.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_regular_d1__2021_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2021,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2021_regular_d2__2021_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2021__2021_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2021_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "digital",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_digital_d1__2022_PV_digital_D1_CD1_ingles.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_digital_D1_CD1_ingles.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_digital_D1_CD1_ingles.pdf",
+  "gab_url": "http://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_digital_D1_CD1_ingles.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "digital",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_digital_d2__2022_PV_digital_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_digital_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_digital_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_digital_D2_CD5.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_ppl_d1__2022_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_reaplicacao_PPL_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_reaplicacao_PPL_D1_CD1.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_ppl_d2__2022_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_reaplicacao_PPL_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_reaplicacao_PPL_D2_CD5.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_regular_d1__2022_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2022,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2022_regular_d2__2022_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2022__2022_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2022_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2023,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2023_ppl_d1__2023_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2023__2023_GB_reaplicacao_PPL_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_reaplicacao_PPL_D1_CD1.pdf"
+ },
+ {
+  "ano": 2023,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2023_ppl_d2__2023_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2023__2023_GB_reaplicacao_PPL_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_reaplicacao_PPL_D2_CD5.pdf"
+ },
+ {
+  "ano": 2023,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2023_regular_d1__2023_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2023__2023_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2023,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2023_regular_d2__2023_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2023__2023_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2023_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2024,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2024_ppl_d1__2024_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_reaplicacao_PPL_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2024__2024_GB_reaplicacao_PPL_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_reaplicacao_PPL_D1_CD1.pdf"
+ },
+ {
+  "ano": 2024,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2024_ppl_d2__2024_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_reaplicacao_PPL_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2024__2024_GB_reaplicacao_PPL_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_reaplicacao_PPL_D2_CD5.pdf"
+ },
+ {
+  "ano": 2024,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2024_regular_d1__2024_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2024__2024_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2024,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2024_regular_d2__2024_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2024__2024_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2024_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "bam2",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_bam2_d1__2025_PV_impresso_D3_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D3_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D3_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D3_CD1.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "bam2",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_bam2_d2__2025_PV_impresso_D4_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D4_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D4_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D4_CD5.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "ppl",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_ppl_d1__2025_PV_impresso_D5_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D5_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D5_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D5_CD1.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_ppl_d2__2025_PV_impresso_D6_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D6_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D6_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D6_CD5.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "regular",
+  "dia": 1,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_regular_d1__2025_PV_impresso_D1_CD1.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D1_CD1.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D1_CD1.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D1_CD1.pdf"
+ },
+ {
+  "ano": 2025,
+  "grupo": "regular",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2025_regular_d2__2025_PV_impresso_D2_CD5.pdf",
+  "url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D2_CD5.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2025__2025_GB_impresso_D2_CD5.pdf",
+  "gab_url": "https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D2_CD5.pdf"
+ },
+ {
+  "ano": 2013,
+  "grupo": "ppl",
+  "dia": 2,
+  "arquivo": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/provas/2013_ppl_d2__2013_PV_reaplicacao_PPL_D1_CD6.pdf",
+  "url": "https://download.inep.gov.br/educacao_basica/enem/provas/2013/2013_PV_reaplicacao_PPL_D1_CD6.pdf",
+  "gab": "C:\\Users\\eduar/AppData/Local/GOAT20ENEM_cache/gab/2013__gabarito_enem_ppl_2013_dia2_cinza.pdf",
+  "gab_url": "https://download.inep.gov.br/educacao_basica/enem/ppl/2013/gabarito_enem_ppl_2013_dia2_cinza.pdf"
+ }
+]
